@@ -1,0 +1,12 @@
+﻿<div class="Hall">
+    <div ng-repeat="sector in Hall.Sectors" class="Sector">
+        <div>{{sector.id}}</div>
+        <div ng-repeat="row in sector.Rows" class="Row">
+            <div>{{row.label}}</div>
+            <div ng-repeat="seat in row.Seats" class="Seat">
+                <div>{{seat.label}}</div>
+            </div>
+        </div>
+
+    </div>
+</div>

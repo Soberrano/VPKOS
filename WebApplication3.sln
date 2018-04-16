@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{DE546A57-1FAF-49FC-8364-0CE326DFEDC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication2", "WebApplication2\WebApplication2.csproj", "{3FA14870-45F6-450A-8A6B-B014DA804B20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DarkSide", "ClassLibrary1\DarkSide.csproj", "{6FC1E5B2-6E1F-4641-899A-93EFAB023D7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE546A57-1FAF-49FC-8364-0CE326DFEDC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE546A57-1FAF-49FC-8364-0CE326DFEDC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE546A57-1FAF-49FC-8364-0CE326DFEDC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE546A57-1FAF-49FC-8364-0CE326DFEDC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FA14870-45F6-450A-8A6B-B014DA804B20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FA14870-45F6-450A-8A6B-B014DA804B20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FA14870-45F6-450A-8A6B-B014DA804B20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FA14870-45F6-450A-8A6B-B014DA804B20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FC1E5B2-6E1F-4641-899A-93EFAB023D7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FC1E5B2-6E1F-4641-899A-93EFAB023D7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FC1E5B2-6E1F-4641-899A-93EFAB023D7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FC1E5B2-6E1F-4641-899A-93EFAB023D7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
